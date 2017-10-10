@@ -1,4 +1,4 @@
-Openkore plugin for http://ragi.al/
+[Openkore](https://github.com/OpenKore/openkore) plugin for http://ragi.al/
 
 Config.txt:
 
