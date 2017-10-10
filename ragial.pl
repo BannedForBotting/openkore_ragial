@@ -1,3 +1,4 @@
+#Openkore ragial by Naozumi2k
 package ragial;
 
 use strict;
