@@ -17,7 +17,7 @@ $check_time = 0;
 Plugins::register('ragial', 'check ragial prices', \&on_unload, \&on_unload);
 
 my $hooks = Plugins::addHooks(
-		['shop_open', \&shop_open, undef],
+		['open_shop', \&shop_open, undef],
 		['mainLoop_pre', \&check_timeout, undef]
 	);
 
